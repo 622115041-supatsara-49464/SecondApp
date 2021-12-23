@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
             return ListView.builder(
               itemBuilder: (BuildContext context, int index) {
                 return MyBox(data[index]['img'], data[index]['title'],
-                    data[index]['description']);
+                    data[index]['description'],data[index]['Details']);
               },
               itemCount: data.length,
             );
@@ -37,7 +37,12 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  Widget MyBox(String img, String title, String description) {
+  Widget MyBox(String img, String title, String description, String detail) {
+    var v1, v2 ,v3 ,v4;
+    v1 = title;
+    v2 = description;
+    v3 = img;
+    v4 = detail;
     return Container(
       margin: EdgeInsets.only(top: 12),
       padding: EdgeInsets.all(16),
@@ -80,7 +85,7 @@ class _HomePageState extends State<HomePage> {
               onPressed: () {
                 print("Next page");
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => DetailPage()));
+                    MaterialPageRoute(builder: (context) => DetailPage(v1,v2,v3,v4)));
               },
               child: Text("read more >>",
                   style: TextStyle(fontSize: 12, color: Colors.white)))

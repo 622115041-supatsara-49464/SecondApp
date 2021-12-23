@@ -2,16 +2,19 @@
     {
         "title": "Shroom is around us",
         "description": "Shroommm",
-        "img": "https://images.unsplash.com/photo-1505820013142-f86a3439c5b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
+        "img": "https://images.unsplash.com/photo-1505820013142-f86a3439c5b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "Details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget erat ac lacus volutpat ornare. In porta ullamcorper mi vel commodo. Phasellus id hendrerit neque. In volutpat elementum velit, et ullamcorper nunc volutpat ut. Sed cursus placerat ante at fringilla. In maximus semper odio, at suscipit erat commodo eget. Donec fermentum tristique diam, eu feugiat urna accumsan sed. Aliquam erat volutpat. Integer sed aliquet nisl. Duis facilisis massa sed mollis hendrerit. Cras sit amet faucibus urna, et tincidunt dolor. Ut tellus metus, congue vitae dui vitae, placerat bibendum nulla. Vestibulum porta ornare felis, ut volutpat felis rhoncus a. Donec nisl urna, cursus id dignissim et, consectetur a libero."
     },
     {
         "title": "What is shroom",
         "description": "Shroom is mushroom",
-        "img": "https://images.unsplash.com/photo-1505763657442-62574e7a0379?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "img": "https://images.unsplash.com/photo-1505763657442-62574e7a0379?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "Details":"Etiam eu leo orci. Integer dapibus vitae tortor vitae luctus. Duis bibendum sodales leo, sed aliquam justo eleifend quis. Aenean condimentum sed orci lacinia congue. Sed facilisis sem dui, eget blandit eros tristique et. Etiam vulputate orci et egestas venenatis. Sed gravida ante purus. Phasellus at lorem nunc. Suspendisse porttitor massa dui. Nulla eu libero egestas, molestie mauris et, bibendum orci."
     },
     {
         "title": "What does the shroom say",
         "description": "Ring ding ding ding ding ding ding ding",
-        "img": "https://images.unsplash.com/photo-1519305124423-5ccccff55da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+        "img": "https://images.unsplash.com/photo-1519305124423-5ccccff55da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "Details":"Aliquam erat volutpat. Morbi porttitor massa purus. Ut vel iaculis magna, nec congue enim. Quisque tempus lacinia dolor, a pretium eros mollis sed. Praesent auctor lectus pharetra malesuada feugiat. Praesent placerat nunc non massa facilisis varius. Nullam blandit tortor in odio sagittis luctus. Nullam sit amet nibh a lectus placerat dapibus eu ut tellus. Maecenas scelerisque ligula id ante iaculis viverra. Sed ac justo elementum, consequat dui eget, semper velit. Vivamus porttitor ligula diam, eu pretium massa iaculis vel. Suspendisse mattis lacus et pretium fermentum. Ut tristique nulla non libero lacinia sodales. In convallis molestie turpis vel venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
 ]
